@@ -4,6 +4,12 @@ Priority: optional
 Maintainer: Debian Astro Team <debian-astro-maintainers@lists.alioth.debian.org>
 Build-Depends: debhelper (>=10),
                dh-python,
+               intltool-debian,
+               gettext,
+               groff-base,
+               libarchive-zip-perl,
+               libpipeline1,
+               m4,
                python3-all,
                python3-dev,
                python3-numpy
