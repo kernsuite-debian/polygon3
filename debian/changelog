@@ -1,0 +1,6 @@
+polygon3 (3.0.7-1kern1) bionic; urgency=medium
+
+  [ Athanaseus Javas Ramaila ]
+  * Initial release version 3.0.7
+
+ -- KERN packaging <packaging@kernsuite.info>  Wed, 04 Mar 2020 10:14:14 +0200
