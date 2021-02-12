@@ -1,3 +1,10 @@
+polygon3 (3.0.8-1kern2) focal; urgency=medium
+
+  [ Athanaseus Javas Ramaila ]
+  * Build for focal
+
+ -- KERN packaging <packaging@kernsuite.info>  Fri, 12 Feb 2021 08:29:35 +0000
+
 polygon3 (3.0.8-1kern1) bionic; urgency=medium
 
   [ Athanaseus Javas Ramaila ]
