@@ -1,2 +1,2 @@
 version=3
-https://bitbucket.org/jraedler/polygon3/downloads?tab=tags .*/(\d\S+)\.tar\.gz
+https://github.com/jraedler/polygon3/tags /jraedler/polygon3/archive/(\d[\.\d]+).tar.gz
