@@ -1,3 +1,10 @@
+polygon3 (3.0.8-1kern4) noble; urgency=medium
+
+  [ Athanaseus Javas Ramaila ]
+  * Build for noble
+
+ -- KERN packaging <packaging@kernsuite.info>  Sun, 29 Mar 2026 21:55:10 +0200
+
 polygon3 (3.0.8-1kern3) jammy; urgency=medium
 
   [ Athanaseus Javas Ramaila ]
